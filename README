@@ -1,0 +1,15 @@
+The project is KNN classifier that predicts whether a given user based on their
+gender, income and age, will buy a particular product or not.
+
+The Jupyter Notebook in this project runs the whole project. The requirements
+for running the python script are:
+Numpy==1.16.3
+Pandas==0.24.2
+Matplotlib==3.0.3
+
+Start the jupyter server and install all the packages with their dependencies
+to run the script.
+
+Data source
+Download the dataset, a csv file, from the link:
+https://kaggle.com/
